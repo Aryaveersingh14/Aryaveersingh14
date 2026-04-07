@@ -29,3 +29,10 @@
 	•	🔹 Git & GitHub
 	•	🔹 VS Code
 	•	🔹 APIs (Weather API etc.)
+
+
+
+	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
+
+	![GitHub Streak](https://streak-stats.demolab.com/?user=your-username)
