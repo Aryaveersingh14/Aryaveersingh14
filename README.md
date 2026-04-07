@@ -1,16 +1,43 @@
-## Hi there 👋
+****👋 Hi, I’m Aryaveer Singh****
 
-<!--
-**Aryaveersingh14/Aryaveersingh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
+🚀 Aspiring Software Developer
+🌱 Currently learning C++ , Python , Frontend & Web Development
+⚡ Passionate about coding, problem solving & building real-world projects
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+****🧑‍💻 About Me****
+	•	🎓 Pursuing Computer Science
+	•	💡 Interested in Web Development & Software Development
+	•	🧠 Learning Data Structures & Algorithms (DSA)
+	•	🌍 Building projects to improve practical skills
+	•	📈 Always trying to grow and learn new technologies
+
+⸻
+
+****🚀 Tech Stack****
+
+💻 Languages
+	•	C++
+	•	Python
+	•	JavaScript
+
+****🌐 Frontend Development****
+	•	HTML
+	•	CSS
+	•	JavaScript
+
+****🛠️ Tools & Technologies****
+	•	Git & GitHub
+	•	VS Code
+	•	APIs (like Weather API)
+
+⸻
+
+**📌 Projects**
+
+🌦️ Weather App
+	•	A real-time weather application using API
+	•	Shows temperature, humidity, and conditions
+	•	Built using HTML, CSS, JavaScript
